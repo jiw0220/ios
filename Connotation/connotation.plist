@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wxpay.zlgame.cn/ios/connotation/Connotation1_0.ipa</string>
+					<string>https://github.com/jiw0220/ios/blob/master/Connotation/Connotation1_0.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
